@@ -1,0 +1,10 @@
+play count: 1,input value:50, answer: 39,max: 50,min: 1
+play count: 2,input value:25, answer: 39,max: 50,min: 25
+play count: 3,input value:26, answer: 39,max: 50,min: 26
+play count: 1,input value:50, answer: 66,max: 100,min: 50
+play count: 2,input value:75, answer: 66,max: 75,min: 50
+play count: 3,input value:74, answer: 66,max: 74,min: 50
+play count: 4,input value:70, answer: 66,max: 70,min: 50
+play count: 5,input value:60, answer: 66,max: 70,min: 60
+play count: 6,input value:65, answer: 66,max: 70,min: 65
+play count: 7,input value:67, answer: 66,max: 67,min: 65
